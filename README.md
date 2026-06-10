@@ -1,6 +1,8 @@
 # Coffee-Shop-Sales-Analysis-Dashboard-Excel-
 
-
+<p align="center">
+  <img src="images/whole.png" width="1000">
+</p>
 
 # Business Problem
 A coffee shop had 3,636 transaction records but lacked visibility into sales performance, customer preferences, peak business hours, and product-level revenue contributions. 
