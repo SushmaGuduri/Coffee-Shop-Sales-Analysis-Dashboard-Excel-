@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales-Analysis-Dashboard-Excel-
 
+C:\Users\sushm\Pictures\Screenshots\whole.png
+
 # Business Problem
 A coffee shop had 3,636 transaction records but lacked visibility into sales performance, customer preferences, peak business hours, and product-level revenue contributions. 
 Decision-makers could not easily identify which products and time periods were driving business performance.
